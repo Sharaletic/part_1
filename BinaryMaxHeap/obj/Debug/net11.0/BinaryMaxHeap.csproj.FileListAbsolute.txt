@@ -1,4 +1,0 @@
-/Users/vadimlyamin/Downloads/attahments/BinaryMaxHeap/obj/Debug/net11.0/BinaryMaxHeap.GeneratedMSBuildEditorConfig.editorconfig
-/Users/vadimlyamin/Downloads/attahments/BinaryMaxHeap/obj/Debug/net11.0/BinaryMaxHeap.AssemblyInfoInputs.cache
-/Users/vadimlyamin/Downloads/attahments/BinaryMaxHeap/obj/Debug/net11.0/BinaryMaxHeap.AssemblyInfo.cs
-/Users/vadimlyamin/Downloads/attahments/BinaryMaxHeap/obj/Debug/net11.0/BinaryMaxHeap.csproj.CoreCompileInputs.cache
